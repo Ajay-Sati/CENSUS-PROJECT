@@ -5,4 +5,4 @@ The initial stages of the project involve data visualization, allowing for a cle
 
 The data selection process involves identifying and retaining the most influential features for model training. Once the data is prepared, various machine learning models are trained to classify customers into the specified income categories. The model's hyperparameters are fine-tuned to optimize performance and enhance predictive accuracy.
 
-Finally, the goodness of the model is assessed using a range of metrics. This thorough evaluation ensures that the model's performance aligns with the project's objectives and provides meaningful insights into the classification of customers based on income levels.
+Finally, the goodness of the model is assessed using a range of metrics such as  precision, recall, and F1 score.. This thorough evaluation ensures that the model's performance aligns with the project's objectives and provides meaningful insights into the classification of customers based on income levels.
