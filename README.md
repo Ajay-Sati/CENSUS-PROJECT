@@ -1,5 +1,5 @@
 # CENSUS-PROJECT
-The Customer Classification Model is designed to categorize individuals based on a variety of factors such as workclass, education, marital status, and more, ultimately classifying them into two income brackets: less than or equal to 50K and more than 50K. The project encompasses a comprehensive workflow that includes data visualization, data preprocessing, data selection, model training, hyperparameter tuning, and a final assessment of model performance using various metrics.
+This Customer Classification Model is designed to categorize individuals based on a variety of factors such as workclass, education, marital status, and more, ultimately classifying them into two income brackets: less than or equal to 50K and more than 50K. The project encompasses a comprehensive workflow that includes data visualization, data preprocessing, data selection, model training, hyperparameter tuning, and a final assessment of model performance using various metrics.
 
 The initial stages of the project involve data visualization, allowing for a clear and intuitive understanding of the dataset's characteristics. Subsequently, thorough data preprocessing is performed to ensure the quality and relevance of the input data. This includes handling missing values, encoding categorical variables, and standardizing numerical features.
 
